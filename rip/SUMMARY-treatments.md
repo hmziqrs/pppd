@@ -2,7 +2,7 @@
 
 Sourced from Balance & Dizziness Canada
 (<https://balanceanddizziness.org>). Full text of every cited page is
-cached in [`clean/`](README.md).
+cached in `clean/` (see the [`README.md`](README.md) index).
 
 ## The overall treatment approach
 
@@ -10,17 +10,17 @@ From [`clean/pppd.md`](clean/pppd.md) and
 [`clean/what-is-the-treatment-for-pppd.md`](clean/what-is-the-treatment-for-pppd.md):
 
 - **First step:** understand what causes PPPD and how the brain is
-  over-responding to normal signals. Education restores a feeling of
-  control and improves participation in treatment.
+  over-responding to normal signals. Education restores a sense of control
+  and helps people stick with treatment.
 - **Core approach:** "retraining" the brain through a combination of:
   1. Vestibular rehabilitation (exercise-based therapy)
   2. Medication (usually antidepressants)
   3. Cognitive-behavioural therapy (CBT)
 - Plus relaxation for neck and shoulders.
 - Ideally a **team** of professionals working together.
-- No quick fix — recovery takes time, understanding and the right
-  treatment. PPPD may not fully resolve, but symptoms can improve enough
-  to return to normal activities.
+- There is no quick fix. Recovery takes time, understanding and the right
+  treatment. PPPD may not resolve completely, but symptoms can improve
+  enough to return to normal activities.
 
 ## 1. Vestibular rehabilitation (VR)
 
@@ -29,7 +29,9 @@ Main article: [`clean/vestibular-rehabilitation.md`](clean/vestibular-rehabilita
 Exercise-based treatment that helps the brain relearn balance and how to
 respond to visual + vestibular signals. Most effective when **customized**
 by a vestibular-trained physiotherapist, occupational therapist or
-audiologist. No referral needed in Canada; insurance often covers part/all.
+audiologist. No referral needed to see one in private practice in Canada;
+many insurance plans cover all or part of the cost (some require a referral
+for reimbursement).
 
 **Exercises used for PPPD:**
 
@@ -47,25 +49,29 @@ audiologist. No referral needed in Canada; insurance often covers part/all.
 - **Strengthening, gait training, range-of-motion** exercises.
 - **Breathing/relaxation exercises** — regulate the autonomic nervous
   system.
-- **Walking and aerobic activity.**
+- Walking and aerobic activity.
 
-**Crucial rules:**
+**The rules:**
 
 - Start gradually, increase slowly. **Never "push through" symptoms.**
-- Rate symptoms before exercise (e.g., dizziness = 2/10); when the rating
+- Rate symptoms before exercise (e.g., dizziness = 2); when the rating
   rises by 2 points, stop, rest, and let symptoms return to baseline.
 - Doing too much too soon makes PPPD worse. Treatment may last months.
-- Exercises should cause only mild, brief dizziness — that's what drives
-  brain change. Tell your therapist if nausea/headache develops or
-  symptoms don't settle within 15–20 minutes.
+- Exercises should cause a mild to moderate increase in dizziness for only
+  a few seconds — that's what drives brain change. Tell your therapist if
+  nausea/headache develops or symptoms don't settle within 15–20 minutes.
 - Exercises don't need to continue forever — once goals are met, a
   maintenance activity level (stimulating the vestibular system) is set.
 
 **Home options if no therapist is available:**
 
-- Cawthorne-Cooksey habituation exercises (graduated set)
-  ([`clean/vestibular-rehabilitation.md`](clean/vestibular-rehabilitation.md)).
-- The "Gaining Balance" 35-minute exercise video.
+- Cawthorne-Cooksey habituation exercises (a graduated set, done 2–3 times
+  a day, building to 1–2 minutes per exercise; aim for moderate symptoms
+  of 4–6/10 and expect improvement in ~6–8 weeks)
+  ([`clean/cawthorne-cooksey-habituation-exercises.md`](clean/cawthorne-cooksey-habituation-exercises.md)).
+- The "Gaining Balance" 35-minute exercise video (home use, no special
+  equipment, led by physiotherapist Pauline Martin; MP4 download)
+  ([`clean/gaining-balance-video.md`](clean/gaining-balance-video.md)).
 - University of Southampton's free 6-week online Balance Retraining program.
 - Optokinetic training videos (YouTube links in the VR article): start
   with <30 seconds, watch 3–5 seconds past the urge to look away, max
@@ -83,6 +89,7 @@ section in [`clean/pppd.md`](clean/pppd.md).
   (Zoloft®).
 - **SNRIs:** tried if two SSRIs fail.
 - Used for their effect on dizziness, not because the patient is depressed.
+  Medication alone usually does not fully address PPPD symptoms.
 - Start low, increase gradually; takes **8–12 weeks** to work; may be
   needed for several months. Never stop or change dose without the doctor.
 
@@ -90,10 +97,11 @@ section in [`clean/pppd.md`](clean/pppd.md).
 
 - Dimenhydrinate (Gravol®)
 - Betahistine (Serc®)
-- Sedatives and other antidepressants
+- Sedatives and other antidepressants (i.e., ones other than the
+  SSRIs/SNRIs above)
 - Vestibular suppressants in general — they suppress the very system
   rehabilitation is trying to retrain. Agreed guidance: use suppressants
-  only in the first ~24 hours of an acute attack.
+  only for the first 24 hours.
 
 **General dizziness medication notes:**
 
@@ -103,6 +111,8 @@ section in [`clean/pppd.md`](clean/pppd.md).
   withdrawal.
 - **Antiemetics** (e.g., dimenhydrinate/Gravol®) for nausea in acute
   attacks; can cause drowsiness.
+- Acetazolamide — one study found it may help visually induced dizziness;
+  more research needed before it's widely used.
 - Check interactions with a pharmacist; consult a doctor before any
   supplement.
 
@@ -118,16 +128,17 @@ Main article:
 - **PPPD goals:** manage anxiety, cope with symptoms, stop avoidance of
   triggers, rebuild confidence.
 - Evidence: **3 sessions of CBT improved symptoms in up to 3 in 4 PPPD
-  patients** in some studies.
+  patients**, per studies cited in [`clean/pppd.md`](clean/pppd.md).
 - CBT results last longer than medication-only gains; combining CBT with
-  a smaller medication dose often suffices.
+  a smaller medication dose often suffices. Severe anxiety may need
+  anti-anxiety medication combined with CBT.
 - Typically 5–20 sessions; best with a qualified CBT therapist; mild
   anxiety can start with self-help tools and apps (MindShift, MoodKit,
   Sanvello, SAM).
 - Relaxation skills (diaphragmatic breathing, progressive muscle
   relaxation) are often integrated.
 - Mindfulness-based stress reduction can also help. Not everyone responds
-  to CBT — if it doesn't work, discuss alternatives with the doctor.
+  to CBT. If it doesn't work, discuss alternatives with the doctor.
 
 ## 4. Relaxation techniques
 
@@ -159,8 +170,10 @@ Main article: [`clean/cam-treatments.md`](clean/cam-treatments.md).
 - Very few rigorous studies exist for balance/dizziness disorders. Without
   verified evidence, a treatment may be ineffective, harmful, or costly —
   consider passing.
-- Keep an open mind but demand evidence (the Epley manoeuvre story is the
+- Keep an open mind but demand evidence (the Epley manoeuvre is the classic
   example of an initially dismissed idea that proved to work).
+- Ginger is suggested for nausea and aromatherapy/lavender for relaxation,
+  though evidence for dizziness is thin.
 - Inform your doctor about all OTC and natural products — some interact
   dangerously with medications.
 
@@ -172,11 +185,13 @@ Main article: [`clean/cam-treatments.md`](clean/cam-treatments.md).
 - **Don't avoid triggers forever:** keep doing normal activities with
   controlled exposure — doing nothing is not the road to recovery
   ([`clean/visually-induced-dizziness.md`](clean/visually-induced-dizziness.md)).
-- **Anxiety management** is a first-line partner to VR; treat anxiety and
-  depression (with or without medication).
-- **Practical aids:** walking poles, single-vision lenses, book stands,
-  weighted vests (BalanceWear, OTvest), prong collars for dog walking —
-  see [`clean/but-you-dont-look-sick.md`](clean/but-you-dont-look-sick.md).
+- **Anxiety management** is an important complement to VR; treat anxiety
+  and depression (with or without medication).
+- **Practical aids:** a cane, walking poles, single-vision lenses, book
+  stands, weighted vests (BalanceWear, OTvest), prong collars for dog
+  walking — see [`clean/but-you-dont-look-sick.md`](clean/but-you-dont-look-sick.md),
+  [`clean/an-experiment-of-one-n1.md`](clean/an-experiment-of-one-n1.md) and
+  [`clean/how-i-cope-with-my-balance-issues-while-walking-two-dogs.md`](clean/how-i-cope-with-my-balance-issues-while-walking-two-dogs.md).
 
 ## 7. Emerging / future treatments
 
@@ -190,7 +205,8 @@ Main article: [`clean/future-treatments.md`](clean/future-treatments.md).
   plus balance exercises; approved in Canada 2018; patient story in
   [`clean/never-stop-looking-for-improvement-a-possible-new-treatment-for-balance-issues-a.md`](clean/never-stop-looking-for-improvement-a-possible-new-treatment-for-balance-issues-a.md).
 - **Lenire®** — combined sound + tongue electrical stimulation for
-  tinnitus; approved in Europe, not yet Canada/US (as of page date).
+  tinnitus; available in Europe, not yet approved in Canada/US (as of page
+  date).
 - **fNIRS imaging** — objective tinnitus measurement.
 - **Wearable biofeedback sensors** — lab/home rehab training and balance
   aids.

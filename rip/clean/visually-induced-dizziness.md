@@ -74,6 +74,17 @@ Visually induced dizziness is usually triggered by one or more of the following 
 
 When someone has an episode of visually induced dizziness, they may have some or all of the following:
 
+* dizziness
+* unsteadiness
+* light-headedness
+* disorientation
+* nausea
+* vomiting
+* sweating
+* salivation (mouth watering)
+* tiredness
+* turning pale
+
 Some people say it feels like seasickness or being drunk.
 
 Visually induced dizziness usually does not include feelings of rotation or spinning (vertigo). It is also not the same thing as oscillopsia, where what you see appears to wobble or jump around.

@@ -8,6 +8,14 @@ Complementary and alternative medicine (CAM) refers to any medical and health ca
 * Mindfulness meditation
 * Therapeutic massage
 * Chiropractic treatment
+
+* Biologically based therapies
+* Acupuncture
+* Homeopathy
+
+* Mindfulness meditation
+* Therapeutic massage
+* Chiropractic treatment
 * Biologically based therapies
 * Acupuncture
 * Homeopathy

@@ -2,13 +2,13 @@
 
 Sourced from Balance & Dizziness Canada
 (<https://balanceanddizziness.org>). Full text of every cited page is
-cached in [`clean/`](README.md) — see
+cached in `clean/` (see the [`README.md`](README.md) index) — see
 [`clean/pppd.md`](clean/pppd.md) for the main PPPD article.
 
 ## What PPPD is
 
 Persistent postural-perceptual dizziness (PPPD, "three-P-D") is a common
-cause of chronic dizziness. It was defined as a distinct disorder in 2015.
+cause of chronic dizziness. It was defined as a disorder in 2015.
 Before that it went by several names: phobic postural vertigo (PPV),
 space-motion discomfort (SMD), visual vertigo (VV) and chronic subjective
 dizziness (CSD).
@@ -16,10 +16,12 @@ dizziness (CSD).
 Key facts from [`pppd.md`](clean/pppd.md):
 
 - Symptoms last **three months or more** — feelings of movement, dizziness,
-  unsteadiness or light-headedness, present most days for hours at a time.
+  unsteadiness or light-headedness, present most days for hours (or days)
+  at a time.
 - More common in **women**, typically developing between **ages 30–50**.
-- Some studies suggest up to **1 in 4** people with a vestibular problem
-  (vestibular neuritis, Ménière's, BPPV) go on to develop PPPD.
+- Studies cited in [`pppd.md`](clean/pppd.md) suggest up to **1 in 4**
+  people with a vestibular problem (vestibular neuritis, Ménière's, BPPV)
+  go on to develop PPPD.
 - PPPD can co-exist with another vestibular disorder (e.g., Ménière's +
   PPPD).
 - Symptoms are real and physical — **not a mental illness**, even though
@@ -43,16 +45,17 @@ instead of returning to normal:
 - Busy patterns and movement then falsely signal danger.
 
 This creates a vicious circle: worry → visual dependence → more symptoms →
-more anxiety. Brain-imaging studies have found **differences in brain
-activity and connectivity** in people with PPPD, which may make it harder
-to integrate sensory signals and assess threats. The closely related
+more anxiety. Studies cited in [`pppd.md`](clean/pppd.md) have found
+**differences in brain activity** in people with PPPD, which may make it
+harder to integrate sensory signals and assess threats. The closely related
 concept of **visual dependency** is explained in
-[`visually-induced-dizziness.md`](clean/visually-induced-dizziness.md).
+[`visually-induced-dizziness.md`](clean/visually-induced-dizziness.md)
+(that page also notes differences in how brain areas are connected).
 
 ## Triggers — what starts PPPD
 
-PPPD is usually **triggered by a first episode** of vertigo, dizziness or
-unsteadiness. From [`pppd.md`](clean/pppd.md):
+PPPD is usually **triggered by a first episode** of vertigo or unsteadiness.
+From [`pppd.md`](clean/pppd.md):
 
 **Vestibular problems:**
 - Ménière's disease
@@ -63,7 +66,7 @@ unsteadiness. From [`pppd.md`](clean/pppd.md):
 - Mild traumatic brain injury (mTBI) / concussion
 
 **Psychological events:**
-- Panic attacks and anxiety — which themselves cause dizziness,
+- Panic attacks and anxiety, which themselves cause dizziness,
   light-headedness, fast heartbeat, shortness of breath, sweating,
   shaking, muscle tension, tiredness, nausea.
 
@@ -71,13 +74,13 @@ unsteadiness. From [`pppd.md`](clean/pppd.md):
 - Post-concussion symptoms (see
   [`the-confusing-concussion.md`](clean/the-confusing-concussion.md) and
   [`cathy-whites-vestibular-journey-poems-and-paintings.md`](clean/cathy-whites-vestibular-journey-poems-and-paintings.md)).
-- Whiplash injuries — a common cause of visually induced dizziness.
+- Whiplash injuries — visually induced dizziness is a common symptom.
 - Long car-accident recovery with PTSD-like fear
   ([`fear-came-to-stay-a-poem.md`](clean/fear-came-to-stay-a-poem.md)).
 
 ## Medications as a cause
 
-Many medications can cause or worsen dizziness and imbalance — over 1,000
+Many medications can cause or worsen dizziness and imbalance. Over 1,000
 list vertigo and 2,000 list dizziness as side effects. Full list in
 [`what-medications-can-contribute-to-dizziness-or-lack-of-balance.md`](clean/what-medications-can-contribute-to-dizziness-or-lack-of-balance.md):
 
@@ -86,16 +89,19 @@ list vertigo and 2,000 list dizziness as side effects. Full list in
 - Anticonvulsants, antifungals, antihistamines, anti-psychotics.
 - Anti-inflammatories/NSAIDs (ibuprofen, naproxen, aspirin, Tylenol).
 - Benzodiazepines (Xanax, Ativan) — linked to unsteadiness and falls;
-  one study connects them to ~1/3 of hip fractures in people over 85.
-- Cholesterol-lowering drugs, loop diuretics (furosemide), mucolytics.
+  one study links them to ~1/3 of hip fractures in people over 85.
+- Cholesterol-lowering drugs, loop diuretics (furosemide, bumetanide),
+  mucolytics.
 - Parkinson's medications.
 - Platinum-based chemotherapy (cisplatin) — can permanently damage inner
-  ear balance structures.
+  ear balance structures and vision.
 - Quinolone anti-malarials (Malarone) — potential vestibular toxins.
+- Sleep aids (prescription and non-prescription).
+- Tricyclic antidepressants (amitriptyline, nortriptyline).
 
-Side effects usually stop after the drug is discontinued. Older adults are
-at higher risk because drugs are metabolized differently with age.
-Combinations of drugs can cause problems even when single drugs don't.
+Side effects usually stop once the drug is stopped. Risk climbs with age,
+because drugs are metabolized differently, and combinations can cause
+problems even when each drug alone doesn't.
 
 ## Multifactorial causes
 
@@ -111,9 +117,9 @@ contributors:
 - Advancing age (90% of Canadians over 65 have ≥1 chronic condition)
 
 The most common cause of chronic imbalance is probably multifactorial:
-mild sensory loss + decreased muscle strength + arthritis. Overlapping
-conditions make diagnosis hard, and years can be lost on incorrect
-diagnoses.
+mild sensory loss + decreased muscle strength + other medical problems
+such as arthritis. Overlapping conditions make diagnosis hard; years can
+be lost chasing the wrong one.
 
 ## Symptom pattern and worsening factors
 

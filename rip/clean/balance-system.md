@@ -16,6 +16,11 @@
 
 The human balance system works through a constant process of position detection, feedback, and adjustment between the:
 
+* brain
+* ears
+* eyes
+* skin, muscles, joints
+
 It is an automatic, silent system that never stops working. Dizziness, imbalance, and other [symptoms](<https://balanceanddizziness.org/symptoms/>) alert us when one or more parts of this complex communication chain breaks down.
 
 ## Role of the brain

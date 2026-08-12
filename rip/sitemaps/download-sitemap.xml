@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- This sitemap was dynamically generated on August 12, 2026 at 1:58 pm by All in One SEO v4.9.3 - the original SEO plugin for WordPress. -->
+
+<?xml-stylesheet type="text/xsl" href="https://balanceanddizziness.org/default-sitemap.xsl?sitemap=download"?>
+<urlset
+	xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+	xmlns:xhtml="http://www.w3.org/1999/xhtml"
+	xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
+>
+	<url>
+		<loc><![CDATA[https://balanceanddizziness.org/downloads/gaining-balance-exercise-video/]]></loc>
+		<lastmod><![CDATA[2020-06-16T14:19:07+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://balanceanddizziness.org/wp-content/uploads/2018/02/elephant-on-ball-200px-grey-background.jpg]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://balanceanddizziness.org/wp-content/uploads/2018/02/mc_vs_dc_pp.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+</urlset>

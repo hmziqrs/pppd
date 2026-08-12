@@ -2,7 +2,7 @@
 
 Sourced from Balance & Dizziness Canada
 (<https://balanceanddizziness.org>). Full story texts are cached in
-[`clean/`](README.md). Index of all stories:
+`clean/` (see the [`README.md`](README.md) index). Index of all stories:
 [`clean/personal-stories.md`](clean/personal-stories.md).
 
 ## Stories most relevant to PPPD / chronic dizziness
@@ -59,8 +59,8 @@ Sourced from Balance & Dizziness Canada
 ### Nancy — "Vertigo Changed This Woman's Life for the Better"
 [`clean/vertigo-changed-this-womans-life-for-the-better.md`](clean/vertigo-changed-this-womans-life-for-the-better.md)
 
-- 28-year-old, diagnosed with vertigo by her physiotherapist after a
-  lifestyle of 12-hour computer workdays and chronic anxiety.
+- 28-year-old, diagnosed with vertigo by her physiotherapist after
+  12-hour computer workdays and anxiety.
 - Three weeks of forced rest, then continued computer sensitivity.
 - Reframed vertigo as permission to rest: rediscovered paint-by-numbers
   art therapy, walks, guilt-free downtime.
@@ -76,8 +76,8 @@ Sourced from Balance & Dizziness Canada
 - The site's editors note this is common and give a two-step plan:
   **educate yourself** (document symptoms precisely), then **advocate for
   yourself** (use your documentation to get referrals/second opinions).
-  They say these steps lead to a proper diagnosis and treatment in ~95%
-  of cases.
+  The editors say these steps lead to a proper diagnosis and treatment in
+  ~95% of cases.
 
 ## Other vestibular journeys (related conditions)
 
@@ -203,10 +203,10 @@ Sourced from Balance & Dizziness Canada
   depression, anxiety, vertigo, neck pain, vestibular migraines.
 - Paintings and poems were her therapy: *Sudden Impact*, *Protective
   Posture*, *Unnecessary Removal*, *Pain Management* (suicidal thoughts,
-  hospital dismissiveness), *Emergency Care*, *Ascending Soul* (written
-  for her late husband), *Rebalancing Vertigo* (Van Gogh reference),
-  *Gratitude Revisited*. Ends on hope: "sometimes at the worst of times
-  hope is all we have to cling to."
+  hospital dismissiveness), *Emergency Care*, *Ascending Soul*,
+  *Rebalancing Vertigo* (Van Gogh reference), and *Gratitude Revisited*,
+  dedicated to her late husband Kim. Ends on hope: "sometimes at the worst
+  of times hope is all we have to cling to."
 
 ### Anonymous — "Fear Came to Stay"
 [`clean/fear-came-to-stay-a-poem.md`](clean/fear-came-to-stay-a-poem.md)
@@ -230,6 +230,17 @@ Sourced from Balance & Dizziness Canada
   calmer digestion, more energy, less bothersome tinnitus. Asks whether
   inflammation underlies some vestibular symptoms ("itis" = inflammation).
 
+### Andrea — coping during the Covid-19 lockdown
+[`clean/how-im-coping-during-covid-19-lockdown.md`](clean/how-im-coping-during-covid-19-lockdown.md)
+
+- Practical lockdown toolkit: Instant Pot batch cooking, online ordering,
+  vitamin D daily, library curbside pickup, Zoom socials, online banking
+  and groceries.
+- Health specifics: got the flu shot and planned a pneumonia shot, kept
+  dogs socially distanced from other owners, and leaned on online
+  communities (Twitch/Discord) for connection.
+- Bottom line: mask, distance, sanitize — "stay vigilant."
+
 ## Living with an invisible illness — advice for family and friends
 
 [`clean/but-you-dont-look-sick.md`](clean/but-you-dont-look-sick.md)
@@ -239,27 +250,31 @@ Sourced from Balance & Dizziness Canada
   strikes in public they're more likely seen as drunk than ill.
 - Constant effort just to stay upright is exhausting. "Most of us would
   sacrifice a limb to make our heads work properly."
-- Things family/friends can do: advocate with doctors/insurers/employers;
-  research therapies; watch for new tech (PoNS, BalanceWear); find simple
-  aids (cane, book stand, single-vision lenses); partner practically
-  (window seats, lower shelves, offering an arm on stairs, smooth
-  driving); ask how to help today; work with limitations (mornings are
-  hardest); be part of the solution (grocery shopping, cleaning, cooking).
+- Things family/friends can do:
+  - Advocate with doctors, insurers and employers.
+  - Research therapies.
+  - Watch for new tech (PoNS, BalanceWear).
+  - Find simple aids: cane, book stand, single-vision lenses.
+  - Partner practically: window seats, lower shelves, an arm on stairs,
+    smooth driving.
+  - Ask how to help today.
+  - Work with limitations (mornings are hardest).
+  - Be part of the solution: grocery shopping, cleaning, cooking.
 - Reference: Christine Miserandino's *Spoon Theory* for explaining hidden
   disability.
 
 ## Recurring themes across all stories
 
-1. **Long diagnosis delays are the norm** — years and a dozen-plus
+1. **Long diagnosis delays are the norm:** years and a dozen-plus
    specialists before answers; symptoms dismissed as anxiety or nerves.
-2. **Self-advocacy is essential** — research, document symptoms, demand
+2. **Self-advocacy is essential.** Research, document symptoms, demand
    referrals.
 3. **Acceptance of a "new normal"** is a turning point, not defeat.
 4. **Vestibular rehab/physiotherapy** is the single most-cited recovery
    tool.
 5. **Small practical adaptations** (earplugs, pillows for MRIs, prong
    collars, window seats, holding onto things) restore daily function.
-6. **Community matters** — support groups, Facebook groups, and
-   volunteering are lifelines.
-7. **Hope is real** — remissions, trial devices, gradual progress — but
-   recovery takes patience and effort.
+6. **Community matters.** Support groups, Facebook groups and volunteering
+   show up again and again as lifelines.
+7. **Hope is justified.** Remissions happen, trial devices help, progress
+   is gradual, and recovery takes patience and effort.

@@ -200,8 +200,10 @@ def is_toc_block(text):
 
 
 def dedupe_toc_and_title(md, title):
-    """The site renders desktop+mobile copies of nav/TOC blocks; remove exact
-    duplicate blocks and repeated TOC-style lists."""
+    """The site renders desktop+mobile copies of nav/TOC blocks right after
+    the page title. Only treat short-bullet blocks as TOC candidates BEFORE
+    the first real content heading; lists later in the document (symptom
+    lists, diagnostic tests) must never be deduped away."""
     # split into blocks separated by blank lines
     blocks = [b for b in re.split(r"\n\s*\n", md)]
     seen = set()
@@ -211,6 +213,7 @@ def dedupe_toc_and_title(md, title):
     toc_run_done = False
     in_recent = False
     in_sources = False
+    preamble = True  # TOC dedupe only applies before first heading/long prose
     for b in blocks:
         stripped = b.strip()
         if not stripped:
@@ -239,9 +242,14 @@ def dedupe_toc_and_title(md, title):
             continue
         if re.match(r"^(How can we improve this page|\[\*Expand\*\])", stripped):
             continue
-        # desktop/mobile duplicate TOCs: collect the first contiguous run of
-        # short-bullet blocks into one deduped list; drop any later TOC blocks
-        if is_toc_block(stripped):
+        # content heading or long prose ends the TOC preamble
+        if re.match(r"^#{2,6}\s", stripped):
+            preamble = False
+        elif len(stripped) > 120 and not is_toc_block(stripped):
+            preamble = False
+        # desktop/mobile duplicate TOCs: only in the preamble, collect the
+        # first contiguous run of short-bullet blocks into one deduped list
+        if is_toc_block(stripped) and preamble:
             if toc_run_done:
                 continue
             for it in stripped.splitlines():
@@ -322,6 +330,31 @@ def process_file(path):
     return md
 
 
+def postprocess(base, md):
+    """Hand edits to the generated story index so they survive re-runs."""
+    if base == "personal-stories.md":
+        md = md.replace("Image| Title| Content| Date\n---|---|---|---",
+                        "| Title | Content | Date |\n|---|---|---")
+        md = md.replace(
+            "](<https://balanceanddizziness.org/found-on-reddit-heart-wrenching-story-by-young-bppv-sufferer/>)|",
+            "](<https://balanceanddizziness.org/found-on-reddit-heart-wrenching-story-by-young-bppv-sufferer/>) *(not ripped — story text only on Reddit)* |")
+        md = md.replace(
+            "](<https://balanceanddizziness.org/global-news-bc-more-experts-in-dizziness-needed-in-b-c/>)|",
+            "](<https://balanceanddizziness.org/global-news-bc-more-experts-in-dizziness-needed-in-b-c/>) *(not ripped — news item page)* |")
+        md = md.replace(
+            "](<https://balanceanddizziness.org/an-inaccurate-diagnosis-of-your-vestibular-disorder-can-compromise-your-insurance-claim/>)|",
+            "](<https://balanceanddizziness.org/an-inaccurate-diagnosis-of-your-vestibular-disorder-can-compromise-your-insurance-claim/>) *(not ripped — insurance story page)* |")
+        lockdown_row = ("| [How I'm Coping During Covid-19 Lockdown]"
+                        "(<https://balanceanddizziness.org/how-im-coping-during-covid-19-lockdown/>)"
+                        "| Besides trying to stay on track with routine, exercise and diet, "
+                        "here's what I've been doing to cope with the Covid-19 lockdown: "
+                        "batch cooking, online ordering, vitamin D, curbside library pickup, "
+                        "Zoom socials, and online communities. ~ Andrea Wilson | November 23, 2020")
+        if "how-im-coping-during-covid-19-lockdown" not in md:
+            md = md.rstrip() + "\n" + lockdown_row + "\n"
+    return md
+
+
 def main():
     os.makedirs(CLEAN, exist_ok=True)
     files = sorted(glob.glob(os.path.join(RAW, "*.html")))
@@ -331,6 +364,7 @@ def main():
         try:
             md = process_file(f)
             base = os.path.basename(f).replace(".html", ".md")
+            md = postprocess(base, md)
             out = os.path.join(CLEAN, base)
             with open(out, "w", encoding="utf-8") as fh:
                 fh.write(md)

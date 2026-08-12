@@ -122,6 +122,12 @@ Your doctor will also ask about your medical history, including any medications 
 
 You may have some of the following [diagnostic tests](<https://balanceanddizziness.org/diagnosis-and-treatment/diagnostic-tests/>):
 
+* general physical exam
+* vestibular function tests
+* balance tests
+* blood tests
+* imaging (CT or MRI scans)
+
 PPPD can overlap with other vestibular disorders, such as [Ménière's disease](<https://balanceanddizziness.org/disorders/vestibular-disorders/menieres-disease/>). So your doctor will also look for signs of any related conditions, including conditions that might have triggered PPPD and problems that PPPD might have caused (also called secondary conditions).
 
 ### Clinical criteria for PPPD

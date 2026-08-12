@@ -10,13 +10,14 @@ Source of truth:
 
 ## Structure
 
-- `raw/` — original HTML pages downloaded with curl (38 pages).
+- `raw/` — original HTML pages downloaded with curl (41 pages).
 - `clean/` — extracted article content converted to Markdown
   (headers, nav, sidebar, footer, sharing widgets, and duplicated
   desktop/mobile navigation removed).
 - `extract.py` — the extractor: isolates `<main id="genesis-content">`
   / `<article>`, strips site boilerplate, converts to Markdown.
-- `urls.txt` — the fetch list.
+- `raw/urls.txt` — the fetch list (38 of the 41 pages; the 3 newest were
+  fetched directly).
 - Summary documents (in this directory):
   - `SUMMARY-causes.md`
   - `SUMMARY-treatments.md`
@@ -29,6 +30,7 @@ Source of truth:
 | File | What it is |
 |---|---|
 | `pppd.md` | Main PPPD page: key points, what PPPD is, causes, symptoms, diagnosis, treatment |
+| `balance-system.md` | How the balance system works — vestibular, visual, proprioceptive inputs |
 | `visually-induced-dizziness.md` | Visual vertigo / visual dependency — closely linked to PPPD |
 | `multifactorial-causes.md` | Multiple overlapping causes of dizziness/imbalance |
 | `what-medications-can-contribute-to-dizziness-or-lack-of-balance.md` | Medications that cause dizziness/imbalance |
@@ -41,6 +43,8 @@ Source of truth:
 |---|---|
 | `what-is-the-treatment-for-pppd.md` | Overview of PPPD treatment approach |
 | `vestibular-rehabilitation.md` | Vestibular rehab main page (incl. FAQ) |
+| `cawthorne-cooksey-habituation-exercises.md` | Graduated home habituation exercises for dizziness/imbalance |
+| `gaining-balance-video.md` | "Gaining Balance" 35-minute home exercise video (downloadable MP4) |
 | `medication.md` | Medication for dizziness |
 | `cognitive-behavioural-therapy.md` | CBT for dizziness/anxiety |
 | `cam-treatments.md` | Complementary & alternative medicine |
@@ -79,7 +83,8 @@ Source of truth:
 
 ## How the extraction works
 
-1. `urls.txt` lists the pages.
+1. `raw/urls.txt` lists the pages (extract.py also picks up any `.html`
+   in `raw/` that isn't in the list).
 2. Raw HTML is saved under `raw/` with curl.
 3. `extract.py` parses each file, keeps only the article content,
    removes the repeated site chrome, converts to Markdown in `clean/`.
