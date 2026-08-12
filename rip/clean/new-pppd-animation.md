@@ -1,0 +1,3 @@
+# New! PPPD Animation
+
+[](<https://balanceanddizziness.org/disorders/vestibular-disorders/pppd/>)We’re excited to announce the launch of our second animated healthcare explainer. View a patient-friendly animated introduction to PPPD (Persistent Postural-Perceptual Dizziness), a common cause of long-lasting dizziness which may persist for three months or more. Closed-captioned in English and French. Please share this video to spread the word. [Read more about PPPD and view the PPPD animation video here.](<https://balanceanddizziness.org/disorders/vestibular-disorders/pppd/>) ©2021 Balance & Dizziness Canada

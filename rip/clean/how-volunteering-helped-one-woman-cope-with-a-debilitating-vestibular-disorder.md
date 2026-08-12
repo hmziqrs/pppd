@@ -1,0 +1,11 @@
+# How Volunteering Helped One Woman Cope with a Debilitating Vestibular Disorder
+
+I was diagnosed with Ménière's disease eighteen years ago. A friend who knew about my struggles with balance and vertigo pointed me to the local Ménière's support group where I started to gain a better understanding of my illness and learn ways I could help myself. Shortly thereafter, the group leader became ill and asked me to fill in for her at the meetings. Ultimately the leader was unable to return to her volunteer role and I was asked to take over the group. This led to an invitation to become a Board member of the Manitoba Chapter of the Canadian Hard of Hearing Association (CHHA) where I slowly came to accept the fact of my hearing loss.
+
+For the next several years as the Ménière's group facilitator I met many wonderful people: group members, guest speakers, CHHA board members and many others. I also learned a great deal about Ménière's disease and other vestibular disorders. Over the years we had a variety of guest speakers, including dietitians, physiotherapists, Tai Chi instructors, audiologists and a Yoga teacher to name just a few. Members especially enjoyed the meetings where we held round table discussions on a variety of topics, like preparing for travel, dealing with family and friends who refuse to accept our invisible disability, and how weather affects our symptoms.
+
+I never expected to become a volunteer with a hearing loss organization and I certainly never anticipated developing a life-altering condition such as Ménière's disease. However, if I had to have this health issue I was very fortunate in finding a place to learn more about it and find ways to cope effectively. Being the facilitator of our support group provided me with a rewarding opportunity to help others and at the same time to help myself.
+
+Thank you to the Balance & Dizziness Canada organization for providing a way to share our stories and learn from one another. - Joanne Craig, Winnipeg, MB
+
+_The Winnipeg Ménière's Support Group is sponsored by the Canadian Hard of Hearing Association, Manitoba Chapter. Their website is<http://www.chha-mb.ca>._
