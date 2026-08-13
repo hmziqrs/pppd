@@ -31,10 +31,24 @@ rip/
 2. Save HTML pages into `<site-domain>/raw/` (curl works well).
 3. Copy and adapt an extractor script into `<site-domain>/extract.py`;
    run it to produce markdown in `<site-domain>/clean/`.
-4. Write a page inventory at `<site-domain>/README.md`.
-5. Write summaries under `<site-domain>/summaries/` and link them back to
-   the corpus with relative paths (`../clean/...`).
+4. Write a page inventory at `<site-domain>/README.md` (use the
+   `## Clean page inventory` heading — the checker validates against it).
+5. Write summaries under `<site-domain>/summaries/` (with a README index)
+   and link them back to the corpus with relative paths (`../clean/...`).
 6. Add a row to the Sources table above.
+
+## Integrity check
+
+`python3 check.py` verifies the whole corpus and fails on any breakage:
+
+- every markdown link in every file resolves
+- every clean page has a matching raw page (and vice versa)
+- the clean inventory in each site README matches the clean/ folder
+- every site has summaries/ with an index README
+- no summary links escape its own site folder
+
+Run it after adding pages, extracting, or editing summaries. CI can call
+it directly; exit code 0 = healthy.
 
 ## Conventions
 

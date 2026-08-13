@@ -89,3 +89,5 @@ Source of truth:
 3. `extract.py` parses each file, keeps only the article content,
    removes the repeated site chrome, converts to Markdown in `clean/`.
 4. Re-run anytime with: `python3 extract.py`
+5. Then verify the whole corpus with `python3 ../check.py` — it catches
+   broken links, missing clean/raw pairs, and inventory drift.
