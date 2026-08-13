@@ -2,8 +2,8 @@
 
 Sourced from Balance & Dizziness Canada
 (<https://balanceanddizziness.org>). Full text of every cited page is
-cached in `clean/` (see the [`README.md`](../../balanceanddizziness.org/README.md) index) — see
-[`clean/pppd.md`](../../balanceanddizziness.org/clean/pppd.md) for the main PPPD article.
+cached in `clean/` (see the [`README.md`](../README.md) index) — see
+[`clean/pppd.md`](../clean/pppd.md) for the main PPPD article.
 
 ## What PPPD is
 
@@ -13,13 +13,13 @@ Before that it went by several names: phobic postural vertigo (PPV),
 space-motion discomfort (SMD), visual vertigo (VV) and chronic subjective
 dizziness (CSD).
 
-Key facts from [`pppd.md`](../../balanceanddizziness.org/clean/pppd.md):
+Key facts from [`pppd.md`](../clean/pppd.md):
 
 - Symptoms last **three months or more** — feelings of movement, dizziness,
   unsteadiness or light-headedness, present most days for hours (or days)
   at a time.
 - More common in **women**, typically developing between **ages 30–50**.
-- Studies cited in [`pppd.md`](../../balanceanddizziness.org/clean/pppd.md) suggest up to **1 in 4**
+- Studies cited in [`pppd.md`](../clean/pppd.md) suggest up to **1 in 4**
   people with a vestibular problem (vestibular neuritis, Ménière's, BPPV)
   go on to develop PPPD.
 - PPPD can co-exist with another vestibular disorder (e.g., Ménière's +
@@ -45,17 +45,17 @@ instead of returning to normal:
 - Busy patterns and movement then falsely signal danger.
 
 This creates a vicious circle: worry → visual dependence → more symptoms →
-more anxiety. Studies cited in [`pppd.md`](../../balanceanddizziness.org/clean/pppd.md) have found
+more anxiety. Studies cited in [`pppd.md`](../clean/pppd.md) have found
 **differences in brain activity** in people with PPPD, which may make it
 harder to integrate sensory signals and assess threats. The closely related
 concept of **visual dependency** is explained in
-[`visually-induced-dizziness.md`](../../balanceanddizziness.org/clean/visually-induced-dizziness.md)
+[`visually-induced-dizziness.md`](../clean/visually-induced-dizziness.md)
 (that page also notes differences in how brain areas are connected).
 
 ## Triggers — what starts PPPD
 
 PPPD is usually **triggered by a first episode** of vertigo or unsteadiness.
-From [`pppd.md`](../../balanceanddizziness.org/clean/pppd.md):
+From [`pppd.md`](../clean/pppd.md):
 
 **Vestibular problems:**
 - Ménière's disease
@@ -72,17 +72,17 @@ From [`pppd.md`](../../balanceanddizziness.org/clean/pppd.md):
 
 **Other contributing causes:**
 - Post-concussion symptoms (see
-  [`the-confusing-concussion.md`](../../balanceanddizziness.org/clean/the-confusing-concussion.md) and
-  [`cathy-whites-vestibular-journey-poems-and-paintings.md`](../../balanceanddizziness.org/clean/cathy-whites-vestibular-journey-poems-and-paintings.md)).
+  [`the-confusing-concussion.md`](../clean/the-confusing-concussion.md) and
+  [`cathy-whites-vestibular-journey-poems-and-paintings.md`](../clean/cathy-whites-vestibular-journey-poems-and-paintings.md)).
 - Whiplash injuries — visually induced dizziness is a common symptom.
 - Long car-accident recovery with PTSD-like fear
-  ([`fear-came-to-stay-a-poem.md`](../../balanceanddizziness.org/clean/fear-came-to-stay-a-poem.md)).
+  ([`fear-came-to-stay-a-poem.md`](../clean/fear-came-to-stay-a-poem.md)).
 
 ## Medications as a cause
 
 Many medications can cause or worsen dizziness and imbalance. Over 1,000
 list vertigo and 2,000 list dizziness as side effects. Full list in
-[`what-medications-can-contribute-to-dizziness-or-lack-of-balance.md`](../../balanceanddizziness.org/clean/what-medications-can-contribute-to-dizziness-or-lack-of-balance.md):
+[`what-medications-can-contribute-to-dizziness-or-lack-of-balance.md`](../clean/what-medications-can-contribute-to-dizziness-or-lack-of-balance.md):
 
 - Aminoglycoside antibiotics (gentamicin, streptomycin, tobramycin,
   viomycin) — may cause bilateral vestibulopathy.
@@ -106,7 +106,7 @@ problems even when each drug alone doesn't.
 ## Multifactorial causes
 
 Dizziness often has **more than one cause at the same time**. From
-[`multifactorial-causes.md`](../../balanceanddizziness.org/clean/multifactorial-causes.md), common
+[`multifactorial-causes.md`](../clean/multifactorial-causes.md), common
 contributors:
 
 - Poor vision
@@ -123,7 +123,7 @@ be lost chasing the wrong one.
 
 ## Symptom pattern and worsening factors
 
-From [`pppd.md`](../../balanceanddizziness.org/clean/pppd.md), PPPD symptoms:
+From [`pppd.md`](../clean/pppd.md), PPPD symptoms:
 
 - Non-spinning vertigo (swaying/rocking while still)
 - Unsteadiness (feeling about to fall)
@@ -145,11 +145,11 @@ fear of falling, anxiety/avoidance of triggers.
 dizziness, unsteadiness, light-headedness, disorientation, nausea,
 vomiting, sweating, salivation, tiredness, turning pale — "like seasickness
 or being drunk" (see
-[`visually-induced-dizziness.md`](../../balanceanddizziness.org/clean/visually-induced-dizziness.md)).
+[`visually-induced-dizziness.md`](../clean/visually-induced-dizziness.md)).
 
 ## How it's diagnosed
 
-From [`pppd.md`](../../balanceanddizziness.org/clean/pppd.md):
+From [`pppd.md`](../clean/pppd.md):
 
 - No single specific test; diagnosis uses **clinical criteria**, not
   exclusion.

@@ -1,9 +1,9 @@
 # PPPD & Vestibular Disorders — Summaries (balanceanddizziness.org)
 
 Condensed summaries built from the corpus at
-[`../../balanceanddizziness.org/`](../../balanceanddizziness.org/). Every
+[`../`](../). Every
 summary links back to the full page texts in
-[`clean/`](../../balanceanddizziness.org/clean/).
+[`clean/`](../clean/).
 
 | Summary | Covers |
 |---|---|

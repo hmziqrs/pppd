@@ -18,10 +18,10 @@ Source of truth:
   / `<article>`, strips site boilerplate, converts to Markdown.
 - `raw/urls.txt` — the fetch list (38 of the 41 pages; the 3 newest were
   fetched directly).
-- Summary documents (in this directory):
-  - `SUMMARY-causes.md`
-  - `SUMMARY-treatments.md`
-  - `SUMMARY-personal-experiences.md`
+- Summary documents (in `summaries/`):
+  - `causes.md`
+  - `treatments.md`
+  - `personal-experiences.md`
 
 ## Clean page inventory
 
