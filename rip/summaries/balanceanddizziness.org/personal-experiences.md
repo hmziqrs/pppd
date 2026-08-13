@@ -2,13 +2,13 @@
 
 Sourced from Balance & Dizziness Canada
 (<https://balanceanddizziness.org>). Full story texts are cached in
-`clean/` (see the [`README.md`](README.md) index). Index of all stories:
-[`clean/personal-stories.md`](clean/personal-stories.md).
+`clean/` (see the [`README.md`](../../balanceanddizziness.org/README.md) index). Index of all stories:
+[`clean/personal-stories.md`](../../balanceanddizziness.org/clean/personal-stories.md).
 
 ## Stories most relevant to PPPD / chronic dizziness
 
 ### Sara — "Chronic Dizziness and Imbalance Respond to Physiotherapy"
-[`clean/chronic-dizziness-and-imbalance-respond-to-physiotherapy.md`](clean/chronic-dizziness-and-imbalance-respond-to-physiotherapy.md)
+[`clean/chronic-dizziness-and-imbalance-respond-to-physiotherapy.md`](../../balanceanddizziness.org/clean/chronic-dizziness-and-imbalance-respond-to-physiotherapy.md)
 
 - A 48-hour acute episode of vomiting and vertigo; first diagnosed as
   "dehydration" at a medical centre.
@@ -24,7 +24,7 @@ Sourced from Balance & Dizziness Canada
   the way.
 
 ### Shirley — "Face Your Fears… and Risk Getting Better!"
-[`clean/face-your-fears-and-risk-getting-better.md`](clean/face-your-fears-and-risk-getting-better.md)
+[`clean/face-your-fears-and-risk-getting-better.md`](../../balanceanddizziness.org/clean/face-your-fears-and-risk-getting-better.md)
 
 - Ear surgery in 1992 restored hearing but left her with vertigo; gave up
   running and dancing.
@@ -37,7 +37,7 @@ Sourced from Balance & Dizziness Canada
   gradual exposure worked.
 
 ### Karen — "How I Cope with Chronic Dizziness"
-[`clean/how-i-cope-with-chronic-dizziness-karens-story.md`](clean/how-i-cope-with-chronic-dizziness-karens-story.md)
+[`clean/how-i-cope-with-chronic-dizziness-karens-story.md`](../../balanceanddizziness.org/clean/how-i-cope-with-chronic-dizziness-karens-story.md)
 
 - Vertigo spells since 1999, worsening over the last 5 years; ~a dozen
   specialists before a neuro-otologist team at St. Paul's Hospital
@@ -57,7 +57,7 @@ Sourced from Balance & Dizziness Canada
   when able, walks with husband and dogs, shops online.
 
 ### Nancy — "Vertigo Changed This Woman's Life for the Better"
-[`clean/vertigo-changed-this-womans-life-for-the-better.md`](clean/vertigo-changed-this-womans-life-for-the-better.md)
+[`clean/vertigo-changed-this-womans-life-for-the-better.md`](../../balanceanddizziness.org/clean/vertigo-changed-this-womans-life-for-the-better.md)
 
 - 28-year-old, diagnosed with vertigo by her physiotherapist after
   12-hour computer workdays and anxiety.
@@ -68,7 +68,7 @@ Sourced from Balance & Dizziness Canada
   coaching business grew once she started listening to her body.
 
 ### Diane — "No Diagnosis: All Too Common"
-[`clean/no-diagnosis-is-all-too-common-for-balance-and-dizziness-sufferers.md`](clean/no-diagnosis-is-all-too-common-for-balance-and-dizziness-sufferers.md)
+[`clean/no-diagnosis-is-all-too-common-for-balance-and-dizziness-sufferers.md`](../../balanceanddizziness.org/clean/no-diagnosis-is-all-too-common-for-balance-and-dizziness-sufferers.md)
 
 - First episode ~15 years ago: woke up and fell back into bed, crawled to
   the bathroom. Intermittent unsteadiness since.
@@ -82,7 +82,7 @@ Sourced from Balance & Dizziness Canada
 ## Other vestibular journeys (related conditions)
 
 ### Andrew — understanding employer made the difference
-[`clean/when-dizziness-strikes-an-understanding-employer-can-make-all-the-difference.md`](clean/when-dizziness-strikes-an-understanding-employer-can-make-all-the-difference.md)
+[`clean/when-dizziness-strikes-an-understanding-employer-can-make-all-the-difference.md`](../../balanceanddizziness.org/clean/when-dizziness-strikes-an-understanding-employer-can-make-all-the-difference.md)
 
 - Labyrinthitis after a cold in 1996; months of morning attacks, fatigue,
   headaches. Two ENTs and a neurologist later: vestibular neuritis from
@@ -91,7 +91,7 @@ Sourced from Balance & Dizziness Canada
   dizziness in narrow hallways and crowds; can no longer fly.
 
 ### Andrea — MRI accommodations for dizzy patients
-[`clean/going-for-a-medical-procedure-ask-for-what-you-need-to-make-you-comfortable.md`](clean/going-for-a-medical-procedure-ask-for-what-you-need-to-make-you-comfortable.md)
+[`clean/going-for-a-medical-procedure-ask-for-what-you-need-to-make-you-comfortable.md`](../../balanceanddizziness.org/clean/going-for-a-medical-procedure-ask-for-what-you-need-to-make-you-comfortable.md)
 
 - Dizzy spells from a past MRI left her dreading new scans; a spell costs
   her three "black hole" days.
@@ -101,7 +101,7 @@ Sourced from Balance & Dizziness Canada
   clinic staff can usually accommodate.
 
 ### Albert — physiotherapy at 91
-[`clean/give-physiotherapy-a-try-it-can-make-all-the-difference.md`](clean/give-physiotherapy-a-try-it-can-make-all-the-difference.md)
+[`clean/give-physiotherapy-a-try-it-can-make-all-the-difference.md`](../../balanceanddizziness.org/clean/give-physiotherapy-a-try-it-can-make-all-the-difference.md)
 
 - First vertigo at 64, serious episodes after moving into a retirement
   home. Wellness staff gave Gravol, later told it was inappropriate.
@@ -109,7 +109,7 @@ Sourced from Balance & Dizziness Canada
   recommends Balance & Dizziness Canada.
 
 ### Nickola — earplugs and vestibular exercises
-[`clean/how-earplugs-and-vestibular-exercises-gave-me-back-my-life.md`](clean/how-earplugs-and-vestibular-exercises-gave-me-back-my-life.md)
+[`clean/how-earplugs-and-vestibular-exercises-gave-me-back-my-life.md`](../../balanceanddizziness.org/clean/how-earplugs-and-vestibular-exercises-gave-me-back-my-life.md)
 
 - 15 years of Ménière's (1% hearing in affected ear); noise triggered
   nausea/dizziness/balance problems.
@@ -118,7 +118,7 @@ Sourced from Balance & Dizziness Canada
 - Vestibular exercises from a trained physiotherapist control her balance.
 
 ### Wendy — window seat tip from a support meeting
-[`clean/how-a-bc-balance-and-dizziness-meeting-changed-my-life.md`](clean/how-a-bc-balance-and-dizziness-meeting-changed-my-life.md)
+[`clean/how-a-bc-balance-and-dizziness-meeting-changed-my-life.md`](../../balanceanddizziness.org/clean/how-a-bc-balance-and-dizziness-meeting-changed-my-life.md)
 
 - Dizziness and vomiting on every flight, for years. A doctor speaking at
   a Balance & Dizziness Canada meeting advised: **sit by the window so
@@ -126,14 +126,14 @@ Sourced from Balance & Dizziness Canada
   dizziness.
 
 ### Andrea — walking two dogs safely
-[`clean/how-i-cope-with-my-balance-issues-while-walking-two-dogs.md`](clean/how-i-cope-with-my-balance-issues-while-walking-two-dogs.md)
+[`clean/how-i-cope-with-my-balance-issues-while-walking-two-dogs.md`](../../balanceanddizziness.org/clean/how-i-cope-with-my-balance-issues-while-walking-two-dogs.md)
 
 - Vestibular issues + two dogs = tripping risk. Solution: Hermsprenger
   prong collars as a "steering wheel" — instant response to light
   pressure lets her steer dogs out of her path when she drifts or tips.
 
 ### Joanne — volunteering with Ménière's
-[`clean/how-volunteering-helped-one-woman-cope-with-a-debilitating-vestibular-disorder.md`](clean/how-volunteering-helped-one-woman-cope-with-a-debilitating-vestibular-disorder.md)
+[`clean/how-volunteering-helped-one-woman-cope-with-a-debilitating-vestibular-disorder.md`](../../balanceanddizziness.org/clean/how-volunteering-helped-one-woman-cope-with-a-debilitating-vestibular-disorder.md)
 
 - Diagnosed 18 years ago; joined a Ménière's support group, ended up
   facilitating it and joining the board of the Manitoba CHHA chapter.
@@ -141,7 +141,7 @@ Sourced from Balance & Dizziness Canada
   helping herself.
 
 ### Jacquie — PoNS device clinical trial
-[`clean/never-stop-looking-for-improvement-a-possible-new-treatment-for-balance-issues-a.md`](clean/never-stop-looking-for-improvement-a-possible-new-treatment-for-balance-issues-a.md)
+[`clean/never-stop-looking-for-improvement-a-possible-new-treatment-for-balance-issues-a.md`](../../balanceanddizziness.org/clean/never-stop-looking-for-improvement-a-possible-new-treatment-for-balance-issues-a.md)
 
 - Years of vestibular issues after a serious accident. Accepted into a
   30-person PoNS™ trial (800 screened): tongue stimulation during balance
@@ -151,7 +151,7 @@ Sourced from Balance & Dizziness Canada
   in Canada (2018).
 
 ### Jay — CANVAS syndrome
-[`clean/living-with-canvas-syndrome-jays-story.md`](clean/living-with-canvas-syndrome-jays-story.md)
+[`clean/living-with-canvas-syndrome-jays-story.md`](../../balanceanddizziness.org/clean/living-with-canvas-syndrome-jays-story.md)
 
 - First symptom at ~30: a dry cough still present 40 years later. Balance
   decline at 67, numb toes, constipation, vision jumps when moving his
@@ -161,7 +161,7 @@ Sourced from Balance & Dizziness Canada
   foot-pressure sensation.
 
 ### Brandy — Mal de Débarquement Syndrome (MdDS)
-[`clean/living-with-mal-de-debarquement-syndrome-mdds.md`](clean/living-with-mal-de-debarquement-syndrome-mdds.md)
+[`clean/living-with-mal-de-debarquement-syndrome-mdds.md`](../../balanceanddizziness.org/clean/living-with-mal-de-debarquement-syndrome-mdds.md)
 
 - 24/7 rocking/bobbing since Christmas Eve 2012 (possibly triggered by a
   car-racing video game filling her visual field). Doctors chalked it up
@@ -174,7 +174,7 @@ Sourced from Balance & Dizziness Canada
   The MdDS Foundation Facebook group is her lifeline.
 
 ### David — Episodic Ataxia Type 2 (EA-2)
-[`clean/living-life-with-episodic-ataxia-type-2-ea-2.md`](clean/living-life-with-episodic-ataxia-type-2-ea-2.md)
+[`clean/living-life-with-episodic-ataxia-type-2-ea-2.md`](../../balanceanddizziness.org/clean/living-life-with-episodic-ataxia-type-2-ea-2.md)
 
 - Childhood: rubbery legs, dizziness, falling, funfair and train rides
   causing vomiting; hospital observations blamed "nerves."
@@ -185,7 +185,7 @@ Sourced from Balance & Dizziness Canada
   watching every footstep — uneven pavement can take him down.
 
 ### Muriel — "The Confusing Concussion"
-[`clean/the-confusing-concussion.md`](clean/the-confusing-concussion.md)
+[`clean/the-confusing-concussion.md`](../../balanceanddizziness.org/clean/the-confusing-concussion.md)
 
 - Long-time vestibular patient fell at night at a friend's house, hit her
   head on a dresser, hid it, and did everything wrong.
@@ -197,7 +197,7 @@ Sourced from Balance & Dizziness Canada
 ## Artistic and expressive accounts
 
 ### Cathy — poems and paintings
-[`clean/cathy-whites-vestibular-journey-poems-and-paintings.md`](clean/cathy-whites-vestibular-journey-poems-and-paintings.md)
+[`clean/cathy-whites-vestibular-journey-poems-and-paintings.md`](../../balanceanddizziness.org/clean/cathy-whites-vestibular-journey-poems-and-paintings.md)
 
 - Six-year journey: head trauma, abdominal pain, 60-lb weight loss,
   depression, anxiety, vertigo, neck pain, vestibular migraines.
@@ -209,7 +209,7 @@ Sourced from Balance & Dizziness Canada
   of times hope is all we have to cling to."
 
 ### Anonymous — "Fear Came to Stay"
-[`clean/fear-came-to-stay-a-poem.md`](clean/fear-came-to-stay-a-poem.md)
+[`clean/fear-came-to-stay-a-poem.md`](../../balanceanddizziness.org/clean/fear-came-to-stay-a-poem.md)
 
 - Poem about life after a car crash: PTSD, flashbacks, nightmares,
   withdrawal, career loss, strained relationships.
@@ -219,7 +219,7 @@ Sourced from Balance & Dizziness Canada
   Ending: "Fear had come to stay uninvited SO I kicked it out."
 
 ### Andrea — self-experimentation (N=1)
-[`clean/an-experiment-of-one-n1.md`](clean/an-experiment-of-one-n1.md)
+[`clean/an-experiment-of-one-n1.md`](../../balanceanddizziness.org/clean/an-experiment-of-one-n1.md)
 
 - Philosophy: with no obvious cure, become an "experiment of one" — stay
   open to physio, massage, chiropractic, diet, supplements, meditation,
@@ -231,7 +231,7 @@ Sourced from Balance & Dizziness Canada
   inflammation underlies some vestibular symptoms ("itis" = inflammation).
 
 ### Andrea — coping during the Covid-19 lockdown
-[`clean/how-im-coping-during-covid-19-lockdown.md`](clean/how-im-coping-during-covid-19-lockdown.md)
+[`clean/how-im-coping-during-covid-19-lockdown.md`](../../balanceanddizziness.org/clean/how-im-coping-during-covid-19-lockdown.md)
 
 - Practical lockdown toolkit: Instant Pot batch cooking, online ordering,
   vitamin D daily, library curbside pickup, Zoom socials, online banking
@@ -243,7 +243,7 @@ Sourced from Balance & Dizziness Canada
 
 ## Living with an invisible illness — advice for family and friends
 
-[`clean/but-you-dont-look-sick.md`](clean/but-you-dont-look-sick.md)
+[`clean/but-you-dont-look-sick.md`](../../balanceanddizziness.org/clean/but-you-dont-look-sick.md)
 
 - On good days people with vestibular disorders look fine; at their worst
   they're house-bound, curled up, nauseated, holding walls. If vertigo

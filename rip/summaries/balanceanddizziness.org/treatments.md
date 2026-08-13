@@ -2,12 +2,12 @@
 
 Sourced from Balance & Dizziness Canada
 (<https://balanceanddizziness.org>). Full text of every cited page is
-cached in `clean/` (see the [`README.md`](README.md) index).
+cached in `clean/` (see the [`README.md`](../../balanceanddizziness.org/README.md) index).
 
 ## The overall treatment approach
 
-From [`clean/pppd.md`](clean/pppd.md) and
-[`clean/what-is-the-treatment-for-pppd.md`](clean/what-is-the-treatment-for-pppd.md):
+From [`clean/pppd.md`](../../balanceanddizziness.org/clean/pppd.md) and
+[`clean/what-is-the-treatment-for-pppd.md`](../../balanceanddizziness.org/clean/what-is-the-treatment-for-pppd.md):
 
 - **First step:** understand what causes PPPD and how the brain is
   over-responding to normal signals. Education restores a sense of control
@@ -24,7 +24,7 @@ From [`clean/pppd.md`](clean/pppd.md) and
 
 ## 1. Vestibular rehabilitation (VR)
 
-Main article: [`clean/vestibular-rehabilitation.md`](clean/vestibular-rehabilitation.md).
+Main article: [`clean/vestibular-rehabilitation.md`](../../balanceanddizziness.org/clean/vestibular-rehabilitation.md).
 
 Exercise-based treatment that helps the brain relearn balance and how to
 respond to visual + vestibular signals. Most effective when **customized**
@@ -68,10 +68,10 @@ for reimbursement).
 - Cawthorne-Cooksey habituation exercises (a graduated set, done 2–3 times
   a day, building to 1–2 minutes per exercise; aim for moderate symptoms
   of 4–6/10 and expect improvement in ~6–8 weeks)
-  ([`clean/cawthorne-cooksey-habituation-exercises.md`](clean/cawthorne-cooksey-habituation-exercises.md)).
+  ([`clean/cawthorne-cooksey-habituation-exercises.md`](../../balanceanddizziness.org/clean/cawthorne-cooksey-habituation-exercises.md)).
 - The "Gaining Balance" 35-minute exercise video (home use, no special
   equipment, led by physiotherapist Pauline Martin; MP4 download)
-  ([`clean/gaining-balance-video.md`](clean/gaining-balance-video.md)).
+  ([`clean/gaining-balance-video.md`](../../balanceanddizziness.org/clean/gaining-balance-video.md)).
 - University of Southampton's free 6-week online Balance Retraining program.
 - Optokinetic training videos (YouTube links in the VR article): start
   with <30 seconds, watch 3–5 seconds past the urge to look away, max
@@ -80,8 +80,8 @@ for reimbursement).
 
 ## 2. Medication
 
-Main article: [`clean/medication.md`](clean/medication.md); PPPD-specific
-section in [`clean/pppd.md`](clean/pppd.md).
+Main article: [`clean/medication.md`](../../balanceanddizziness.org/clean/medication.md); PPPD-specific
+section in [`clean/pppd.md`](../../balanceanddizziness.org/clean/pppd.md).
 
 **For PPPD specifically — antidepressants:**
 
@@ -119,7 +119,7 @@ section in [`clean/pppd.md`](clean/pppd.md).
 ## 3. Cognitive-behavioural therapy (CBT)
 
 Main article:
-[`clean/cognitive-behavioural-therapy.md`](clean/cognitive-behavioural-therapy.md).
+[`clean/cognitive-behavioural-therapy.md`](../../balanceanddizziness.org/clean/cognitive-behavioural-therapy.md).
 
 - Short-term, goal-focused talk therapy working on the relationship
   between thoughts (cognition) and behaviour.
@@ -128,7 +128,7 @@ Main article:
 - **PPPD goals:** manage anxiety, cope with symptoms, stop avoidance of
   triggers, rebuild confidence.
 - Evidence: **3 sessions of CBT improved symptoms in up to 3 in 4 PPPD
-  patients**, per studies cited in [`clean/pppd.md`](clean/pppd.md).
+  patients**, per studies cited in [`clean/pppd.md`](../../balanceanddizziness.org/clean/pppd.md).
 - CBT results last longer than medication-only gains; combining CBT with
   a smaller medication dose often suffices. Severe anxiety may need
   anti-anxiety medication combined with CBT.
@@ -142,7 +142,7 @@ Main article:
 
 ## 4. Relaxation techniques
 
-Main article: [`clean/relaxation-techniques.md`](clean/relaxation-techniques.md).
+Main article: [`clean/relaxation-techniques.md`](../../balanceanddizziness.org/clean/relaxation-techniques.md).
 
 Psychological anxiety stimulates the nervous system as much as physical
 pain, so calming practices help reduce symptom intensity:
@@ -163,7 +163,7 @@ minutes daily, be patient — skills take time.
 
 ## 5. Complementary & alternative medicine (CAM)
 
-Main article: [`clean/cam-treatments.md`](clean/cam-treatments.md).
+Main article: [`clean/cam-treatments.md`](../../balanceanddizziness.org/clean/cam-treatments.md).
 
 - CAM = non-mainstream practices: mindfulness, massage, chiropractic,
   acupuncture, homeopathy, botanicals.
@@ -181,21 +181,21 @@ Main article: [`clean/cam-treatments.md`](clean/cam-treatments.md).
 
 - **Sleep:** late nights and short sleep are linked to more negative
   thoughts, anxiety and depression
-  ([`clean/good-sleep-habits-can-help-you-cope-with-anxiety.md`](clean/good-sleep-habits-can-help-you-cope-with-anxiety.md)).
+  ([`clean/good-sleep-habits-can-help-you-cope-with-anxiety.md`](../../balanceanddizziness.org/clean/good-sleep-habits-can-help-you-cope-with-anxiety.md)).
 - **Don't avoid triggers forever:** keep doing normal activities with
   controlled exposure — doing nothing is not the road to recovery
-  ([`clean/visually-induced-dizziness.md`](clean/visually-induced-dizziness.md)).
+  ([`clean/visually-induced-dizziness.md`](../../balanceanddizziness.org/clean/visually-induced-dizziness.md)).
 - **Anxiety management** is an important complement to VR; treat anxiety
   and depression (with or without medication).
 - **Practical aids:** a cane, walking poles, single-vision lenses, book
   stands, weighted vests (BalanceWear, OTvest), prong collars for dog
-  walking — see [`clean/but-you-dont-look-sick.md`](clean/but-you-dont-look-sick.md),
-  [`clean/an-experiment-of-one-n1.md`](clean/an-experiment-of-one-n1.md) and
-  [`clean/how-i-cope-with-my-balance-issues-while-walking-two-dogs.md`](clean/how-i-cope-with-my-balance-issues-while-walking-two-dogs.md).
+  walking — see [`clean/but-you-dont-look-sick.md`](../../balanceanddizziness.org/clean/but-you-dont-look-sick.md),
+  [`clean/an-experiment-of-one-n1.md`](../../balanceanddizziness.org/clean/an-experiment-of-one-n1.md) and
+  [`clean/how-i-cope-with-my-balance-issues-while-walking-two-dogs.md`](../../balanceanddizziness.org/clean/how-i-cope-with-my-balance-issues-while-walking-two-dogs.md).
 
 ## 7. Emerging / future treatments
 
-Main article: [`clean/future-treatments.md`](clean/future-treatments.md).
+Main article: [`clean/future-treatments.md`](../../balanceanddizziness.org/clean/future-treatments.md).
 
 - **Vestibular implants** — like cochlear implants for balance; two
   devices in development (Geneva-Maastricht cochleo-vestibular implant;
@@ -203,7 +203,7 @@ Main article: [`clean/future-treatments.md`](clean/future-treatments.md).
   vestibulopathy, restores the VOR.
 - **PoNS™ (Portable Neuromodulation Stimulator)** — tongue stimulation
   plus balance exercises; approved in Canada 2018; patient story in
-  [`clean/never-stop-looking-for-improvement-a-possible-new-treatment-for-balance-issues-a.md`](clean/never-stop-looking-for-improvement-a-possible-new-treatment-for-balance-issues-a.md).
+  [`clean/never-stop-looking-for-improvement-a-possible-new-treatment-for-balance-issues-a.md`](../../balanceanddizziness.org/clean/never-stop-looking-for-improvement-a-possible-new-treatment-for-balance-issues-a.md).
 - **Lenire®** — combined sound + tongue electrical stimulation for
   tinnitus; available in Europe, not yet approved in Canada/US (as of page
   date).
